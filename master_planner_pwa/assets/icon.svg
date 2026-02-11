@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0b1f3a"/>
+    <stop offset="1" stop-color="#050b14"/>
+  </linearGradient>
+</defs>
+<rect width="512" height="512" rx="92" fill="url(#g)"/>
+<path d="M256 84l52 106 117 17-84 82 20 116-105-55-105 55 20-116-84-82 117-17z" fill="#1e5aa8" opacity="0.85"/>
+<text x="256" y="300" font-family="system-ui, -apple-system, Segoe UI, Roboto" font-size="44" text-anchor="middle" fill="#e6eefc" font-weight="700">PLANNER</text>
+</svg>
